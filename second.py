@@ -1,3 +1,3 @@
-echo "my name is khan 
+echo "my name is khan"
 
-print ('hello world')
+echo "accept my chane0"
