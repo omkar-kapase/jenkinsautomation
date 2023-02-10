@@ -1,3 +1,3 @@
 echo "my name is khan"
-
-echo "accept my chane0"
+ls 
+echo "my life my rule"
